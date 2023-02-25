@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.row{
+    background-color:rgb(45, 140, 223);
+    border-radius: 30px;
+    box-shadow: 12px 12px 27px;
+    width: auto;
+    height: 37rem;
+}
+img{
+    width: 120%;
+    height: 37.5rem;
+    border-top-left-radius: 229px;
+    border-bottom-right-radius: 229px;
+}
+.login h1{
+    font-size: 4rem;
+    font-weight: 300;
+}
+.inp{
+    height: 50px;
+    width: 70%;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 16px 19px 30px;
+}
+
+.fa-facebook{
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+}
+.fa-facebook:hover{
+    color: rgb(74, 141, 236);
+}
+.fa-google{
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+}
+.fa-google:hover{
+    color: rgb(225, 103, 42);
+}
+.fa-linkedin{
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+}
+.fa-linkedin:hover{
+    color: blue;
+}
+.btn1{
+    line-height: 35px;
+    width: 15%;
+    border-radius: 25px;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 22%, rgba(105,167,178,1) 66%);
+}
+
